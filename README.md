@@ -70,3 +70,9 @@ Wi-Fi接続によるNTP時刻同期、温度表示、MP3再生機能を搭載し
 **ikeharua（中学生）**
 趣味でマイコンを使った作品を開発・公開しています。
 GitHubでの公開は初めてですが、誠実にライセンスと出典を守って活動していくつもりです。
+
+##配線の様子
+実際に組み立てた回路の写真です。組み立てたい方などいれば参考にしてください！！
+![IMG_0374](https://github.com/user-attachments/assets/9c58d8c4-fd4d-4e24-b974-a9ae1e1013b7)
+![IMG_0373](https://github.com/user-attachments/assets/bb46823a-24cf-4fa0-af26-b2853068c631)
+![IMG_0371](https://github.com/user-attachments/assets/d3707460-768d-4b47-98d8-2c94a229f9bd)
